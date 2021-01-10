@@ -11,3 +11,11 @@
 ### Keterangan <br/>
 Database : <code>ci_barang</code><br/>
 <br/>
+
+Administrator 
+username : admin
+password : admin / admin123
+
+Gudang
+username : gudang
+password : gudang 
