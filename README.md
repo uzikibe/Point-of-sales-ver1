@@ -12,10 +12,10 @@
 Database : <code>ci_barang</code><br/>
 <br/>
 
-Administrator 
-username : admin
+Administrator <br/>
+username : admin <br/>
 password : admin / admin123
-
-Gudang
-username : gudang
+<br/>
+Gudang <br/>
+username : gudang <br/>
 password : gudang 
